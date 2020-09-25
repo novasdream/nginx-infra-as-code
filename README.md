@@ -50,7 +50,7 @@ terraform apply solution.plan -var prefix="simple_nginx_vm"
 ```
 
 
-Environment variables for terraform .tf files can be added to the file variables.tf 
+Environment variables for terraform .tf files can be added to the file var.tf 
 
 
 
